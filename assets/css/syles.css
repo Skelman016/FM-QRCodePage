@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #D5E1EF;
+    font-family:'Outfit' ;
+}
+
+.page{
+    width: 100lvw;
+    height: 100lvh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+    background-color: #FFFFFF;
+    width: 320px;
+    height: 499px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5%;
+
+}
+
+.card img{
+    width: 288px;
+    height: auto;
+    border-radius: 5%;
+    margin: 16px 0 24px 0;
+}
+
+.text{
+    width: 240px;
+    height: 131px;
+}
+
+.text h1{
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    line-height: 120%;
+    letter-spacing: 0px;
+    margin-bottom: 16px;
+    color:#1F314F;
+}
+
+.text p{
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    margin-bottom: 40px;
+    color: #68778D;
+}
+.attribution { 
+    position:absolute;
+    bottom:0;
+    left:0;
+    width:100%;
+    height: 50px;
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: #68778D; 
+}
+
+.attribution a:hover{
+    color: #1F314F;
+}
