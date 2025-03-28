@@ -63,5 +63,5 @@ This project is licensed under the **MIT License** – feel free to modify and r
 ## Author
 
 - **GitHub**: [Skelman016](https://github.com/Skelman016)  
-- **Frontend Mentor**: [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/Skelman016)
-- **Linkedin**: [Romagnoli Mario](https://www.frontendmentor.io/profile/Skelman016)  
+- **Frontend Mentor**: [My Profile](https://www.frontendmentor.io/profile/Skelman016)
+- **Linkedin**: [Mario Romagnoli](https://www.linkedin.com/in/marioromagnoli016/)  
